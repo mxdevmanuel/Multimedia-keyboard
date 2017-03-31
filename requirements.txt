@@ -1,1 +1,4 @@
+pyinotify==0.9.6
 pyserial==2.7
+setproctitle==1.1.10
+sh==1.12.13
